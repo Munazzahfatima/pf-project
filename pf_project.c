@@ -3,7 +3,7 @@
                                           MEMBERS:
                                         
                                           >>Munazzah fatima 23p0005
-                                          >>Fatiqa munir 23p0022
+                                          >>Fatiqa munir 23p0013
                                           
                                           PURPOSE:
                                           This C program implements a basic mobile phone shopping application. 
